@@ -7,10 +7,10 @@ body {
 nav {
   background-color: yellow;
   height: 100px;
-  margin-top: -10px;
+  margin-top: 0px;
   position: fixed;
   width: 100%;
-
+}
 /*** End of Nav and Body styles - Beginning of content styles ***/
 
 section {
